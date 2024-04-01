@@ -1,0 +1,25 @@
+body{
+    background-color: orange;
+}
+
+header form .title{
+    border: black 2px solid;
+    margin-top: 140px;
+    width: 200px;
+    height: 30px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+header form .text{
+    border: black 2px solid;
+  
+    border-radius: 6px;
+    
+}
+header form .submit{
+    border: black 2px solid;
+
+    border-radius: 4px;
+    font-weight: bolder;
+    width: 100px;
+}

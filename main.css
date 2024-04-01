@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: orange;
+    font-family: Arial, sans-serif;
+}
+
+.material-symbols-outlined {
+  color:black;
+}
+
+
+header h1 {
+    text-align: center;
+    margin-top: 10px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color: yellow;
+}
+
+header button {
+ margin-left: 50px;
+
+
+}
+
+.output {
+    margin-top: 100px;
+    margin-left: 200px;
+    border: 2px black solid ;
+    background-color: white;
+    margin-top: 5px;
+
+    
+}
+
+
+#delete, #edit, #addpass button {
+    border: none;
+   color: gray;
+    cursor: pointer;
+}
+#title{
+    color: black;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+#addpass a {
+    color: black;
+    text-decoration: none;
+}
+#date{
+    font-size: 20px;
+    color:rgb(187, 186, 185);
+}
+
+#delete:hover, #edit:hover, #addpass button:hover {
+    opacity: 0.8;
+}
+
+table {
+    width: 60%;
+  
+    
+}
+
+table, th, td {
+    text-align: center;
+    padding: 0;
+}

@@ -1,0 +1,19 @@
+body{
+    background-color: orange;
+}
+form .pass{
+margin-top: 200px;
+width: 200px;
+border-radius: 5px;
+}
+form .submit{
+    margin-top: 10px;
+    border-radius: 2px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 3px black;
+}
+.error {
+   margin-left: 690px;
+   color: red;
+   margin-top: 10px;
+}

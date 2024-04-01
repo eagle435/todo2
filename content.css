@@ -1,0 +1,32 @@
+body{
+    background-color: orange;
+}
+.content{
+    border: black 5px solid;
+    display:inline-block;
+    background-color: white;
+    margin-top: 130px;
+    width: 1000px;
+    margin-left: 250px;
+}
+.content h1#title{
+    text-align: center;
+}
+.content h3#text{
+    text-align: center;
+    
+
+}
+.content h4#date
+{
+    float:right;
+    padding-right: 30px;
+}
+form input[type=submit].return
+{
+    border: black 2px solid;
+    margin-top: 50px;
+    border-radius: 4px;
+    font-weight: bolder;
+    width: 100px;
+}
